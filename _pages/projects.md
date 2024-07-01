@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: دوره‌ها
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: دوره‌های نورواجوکیشن
 nav: true
 nav_order: 3
 display_categories: [work, fun]
