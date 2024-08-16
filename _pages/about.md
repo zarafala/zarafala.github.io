@@ -17,13 +17,12 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<div dir="rtl">
 
-این یک تست برای زبان فارسی هست!
-</div>
 <div dir=&quotrtl&quot>
+<br>
 
 سلام. من زهرا فلاح هستم. پژوهشگر علوم شناختی.
 دوست داری بیای باهم بازی کنیم ؟ 
 برنامه نویسی هم بهت یاد میدم تو این بازی.
+<br><br>
 </div>
