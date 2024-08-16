@@ -21,8 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 این یک تست برای زبان فارسی هست!
 </div>
-
+<div dir=&quotrtl&quot>
 
 سلام. من زهرا فلاح هستم. پژوهشگر علوم شناختی.
 دوست داری بیای باهم بازی کنیم ؟ 
 برنامه نویسی هم بهت یاد میدم تو این بازی.
+</div>
